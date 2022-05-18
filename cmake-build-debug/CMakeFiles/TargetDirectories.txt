@@ -1,0 +1,3 @@
+/home/naxa1ka/Рабочий стол/sobel/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/naxa1ka/Рабочий стол/sobel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/naxa1ka/Рабочий стол/sobel/cmake-build-debug/CMakeFiles/sobel.dir

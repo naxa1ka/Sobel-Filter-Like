@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/sobel.dir/main.c.o CMakeFiles/sobel.dir/pnm.c.o CMakeFiles/sobel.dir/sobel.c.o -o sobel 
